@@ -49,7 +49,7 @@
     "prember": "^1.0.2",
     "qunit-dom": "^0.8.0",
     "sass": "^1.20.1",
-    "training-buddy": "^0.1.1",
+    "training-buddy": "^0.1.2",
     "training-buddy-default-template": "^0.1.3"
   },
   "engines": {
