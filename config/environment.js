@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     trainingBuddy: {
-      title: 'Emberginners Install Party',
+      title: 'Contributor Workshop Prerequisites',
       logo: '/images/teaching-tomster.png',
       coverImage: '/images/intro-header.jpg'
     },
