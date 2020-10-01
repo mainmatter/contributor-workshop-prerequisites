@@ -1,5 +1,5 @@
 ---
-title: Step 9 - Ember
+title: Step 8 - Ember
 order: 9
 ---
 
@@ -15,7 +15,7 @@ there is a shorter way to write this too which can help to save you precious sec
 npm i -g ember-cli
 ```
 
-Once you have installed `ember-cli` globally you should navigate to the directory you want to put your ember app (remember our `cd` step to change to the right directory). Now that you're in the right place you can run `ember new` to crate your ember app:
+Once you have `ember-cli` installed globally you should navigate to the directory you want to put your ember app (using `cd` to **change directory**). Now that you're in the right place you can run `ember new` to crate your ember app:
 
 ```bash
 ember new awesome-app

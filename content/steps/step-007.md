@@ -1,5 +1,5 @@
 ---
-title: Step 7 - Git
+title: Step 6 - Git
 order: 7
 ---
 

@@ -3,12 +3,8 @@ title: Workshop Introduction
 order: 0
 ---
 
-Thank you for coming to the Emberginners install party brought to you by [simplabs](https://simplabs.com)! Today we will focus on getting you ready for tomorrow's workshop!
+Thank you for signing up for the [EmberFest Contributor Workshop](http://emberfest.eu/)! Before the main event we will focus on getting you and your computer ready for workshop!
 
-## How to follow the workshop
+## How to get help
 
-What you're looking at now is a "Training Buddy" app. You will be able to follow along with examples that your presenter is showing you and find useful links to things you will need.
-
-If you want to see the slides too you can follow along by clicking this link to the public slides [https://emberginners-install-slides.netlify.com/](https://emberginners-install-slides.netlify.com/). You can follow the slides and go back to previous lessons at any time, either during or after the workshop.
-
-Do you have feedback or improvements for the workshop materials? Talk to us during the workshop and we'd be looking forward to incorporate your suggestion into the next edition of this project.
+What you're looking at now is a "Training Buddy" app which is designed to help you install anything that is a prerequsite for the Contributor Workshop. If you have any difficulty following the instructions please let us know on the EmberFest Contributor Workshop Discord channel and we will love to help you out 🎉

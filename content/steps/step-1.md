@@ -5,8 +5,9 @@ order: 1
 
 ## How does this workshop work?
 
-This workshop is about learning something new that helps you to explore new interests and provide basic knowledge to continue learning.
-What's important in that regard?
+This workshop is about learning how to contribute to open source, and more specifically any of the many Ember projects. 
+
+If you are already an expert or even starting out there are some tips to help you get the best out of this workshop: 
 
 - Keep an open mind
 - Be patient
@@ -16,6 +17,4 @@ What's important in that regard?
 
 Feel free to pair with one or two other people in the group. If you prefer working on your own, this is also great - see whatever works best for you!
 
-## Structure
-
-Today we are focusing on getting your development environment setup. We will go into more detail tomorrow about web development
+Now with that in mind, you can click "Step 2" below to get started 🎉

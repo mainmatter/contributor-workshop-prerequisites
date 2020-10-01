@@ -5,6 +5,6 @@ order: 3
 
 #### Installing a text editor
 
-You can download and install Atom over [here](https://atom.io/). This works best if you are on Mac or Linux.
+One of the most popular Code Editors among Ember developers is Visual Studio Code. It's free and can be downloaded from the [VS Code Website](https://code.visualstudio.com/).
 
-If you are on **Windows** you should install [VS Code](https://code.visualstudio.com/)
+If you are looking for an altenative you can download and install Atom over [here](https://atom.io/).
