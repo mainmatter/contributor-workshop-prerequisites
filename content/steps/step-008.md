@@ -1,16 +1,36 @@
 ---
-title: Step 7 - Node.js
-order: 8
+title: Step 8 - Ember
+order: 9
 ---
 
-Now it's time to install Node.js. Visit the [Node Homepage](https://nodejs.org/) and download the installer for your system.
-
-We need at least Node v10 so you can use LTS (v12) or Current (v14) without any problems.
-
-Again, if you want to check if node is installed (and also check the version) you can run `node -v` in your terminal
+Now that we have Node installed we can use `npm` to install `ember-cli`
 
 ```bash
-node -v
+npm install --global ember-cli
 ```
 
-Once you have installed Node you can run `node -v` in your terminal again to see if it is there. You might need to restart your terminal again for it to pick it up
+there is a shorter way to write this too which can help to save you precious seconds
+
+```bash
+npm i -g ember-cli
+```
+
+Once you have `ember-cli` installed globally you should navigate to the directory you want to put your ember app (using `cd` to **change directory**). Now that you're in the right place you can run `ember new` to crate your ember app:
+
+```bash
+ember new awesome-app
+```
+
+this will take a while to install all the dependencies.
+
+Next up you just need to navigate into your new app using `cd` and run `npm start`
+
+```bash
+cd awesome-app
+
+npm start
+```
+
+You can also use `ember serve` to start your ember app.
+
+If all has gone well you can navigate to http://localhost:4200 to see the Ember demo app running
