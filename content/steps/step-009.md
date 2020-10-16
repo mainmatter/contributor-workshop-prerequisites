@@ -8,13 +8,13 @@ GitHub has [getting started](https://docs.github.com/en/free-pro-team@latest/git
 
 ## Create an account
 
-If you don't already have a GitHub account already you will need to sign up for a free account on the website https://github.com/.
+If you don't already have a GitHub account already you will need to sign up for a free account on the website [https://github.com/](https://github.com/).
 
 ## Clone your first Ember repo
 
-If you already have a GitHub account and you are comfortable cloning a repo then go ahead and clone https://github.com/ember-learn/ember-website to your computer now.a
+If you already have a GitHub account and you are comfortable cloning a repo then go ahead and clone [https://github.com/ember-learn/ember-website](https://github.com/ember-learn/ember-website) to your computer now.
 
-If you have never cloned anything from GitHub before, by far the simplest way to get started is to install Github Desktop, which you can install from https://desktop.github.com/
+If you have never cloned anything from GitHub before, by far the simplest way to get started is to install Github Desktop, which you can install from [https://desktop.github.com/](https://desktop.github.com/).
 
 Once you have GitHub Desktop installed you can click "Code > Open in GitHub Desktop" on any repo and it will ask you to clone it locally.
 
